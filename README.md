@@ -1,7 +1,7 @@
 
 # React.js Sorting Algorithm Visualizer
 
-This project is a React.js (Vite) web application that allows users to visualize various sorting algorithms such as Bubble Sort and Insertion Sort in real-time. It's a fun and educational way to learn about sorting algorithms. The user is able to adjust the speed of the sorting process and read about how the algorithm works.
+This project is a React.js web application that allows users to visualize various sorting algorithms such as Bubble Sort and Insertion Sort in real-time. It's a fun and educational way to learn about sorting algorithms. The user is able to adjust the speed of the sorting process and read about how the algorithm works.
 
 
 
@@ -25,13 +25,7 @@ This project is a React.js (Vite) web application that allows users to visualize
 
 ### Installation
 
-1. Clone the repository to your local machine:
-
-```bash
-
-git clone https://github.com/0xBitBuster/reactjs-sorting-visualizer
-
-```
+1. Download the zip -> code 
 
 2. Install the dependencies:
 ```bash
