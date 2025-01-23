@@ -49,8 +49,4 @@ By default, the web application runs on `http://localhost:5173`
 
   
 
-## Contributing
-
-Contributions are welcome! If you have a feature request or bug report, please open an issue. If you want to contribute code, please fork the repository and submit a pull request.
-
   
